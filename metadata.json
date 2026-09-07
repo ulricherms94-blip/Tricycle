@@ -1,0 +1,6 @@
+{
+  "name": "Tricycle Pro",
+  "description": "Fampiharana fitantanana ho an'ny mpamily sy tompon'ny Tricycle: fanaraha-maso solika, kilometatra, recette, versement ary tatitra.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
